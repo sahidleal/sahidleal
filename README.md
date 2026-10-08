@@ -1,5 +1,5 @@
 <h1 align="center">Hola, soy Sahid Leal 👋</h1>
-<h3 align="center">Data Scientist Matemático | Python · SQL · Machine Learning · Power BI</h3>
+<h3 align="center">Data Scientist | Data Analyst | Matemático | Python | SQL | Machine Learning | Power BI</h3>
 
 <p align="center">
   📍 Madrid, España &nbsp;|&nbsp;
